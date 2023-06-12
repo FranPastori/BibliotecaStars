@@ -15,7 +15,10 @@
     align-items: center;
     position: relative;
 }
-
+.cabecalho__imagem{
+    width: 2rem;
+    height: 2rem;
+}
 .container{
     display: flex;
     align-items: center;
