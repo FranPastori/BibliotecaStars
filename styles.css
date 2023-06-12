@@ -4,7 +4,7 @@
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
     --amarelo: #FECD2F;
-    --roxo-degrade: linear-gradient(94.49deg, #733887 35.48%, #C75EEB 143.32%);
+    --roxo-gradiente: linear-gradient(94.49deg, #f41b9d 35.48%, #f287c7  143.32%);
     --fonte-principal: "Poppins";
 }
 

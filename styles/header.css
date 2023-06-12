@@ -1,6 +1,7 @@
 .cabeçalho__menu-hamburguer{
     width: 24px;
     height: 24px;
+    background-color:var(--roxo-gradiente) ;
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
@@ -46,7 +47,7 @@
 }
 
 .lista-menu__link{
-    background: var(--roxo-degrade);
+    background: var(--roxo-gradiente);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
