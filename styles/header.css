@@ -16,8 +16,8 @@
     position: relative;
 }
 .cabecalho__imagem{
-    width: 2rem;
-    height: 2rem;
+    width: 10rem;
+    height: 10rem;
 }
 .container{
     display: flex;
