@@ -9,7 +9,7 @@
 }
 
 .cabeçalho{
-    width: 1vw;
+
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
