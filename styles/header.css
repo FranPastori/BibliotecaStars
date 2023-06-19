@@ -9,12 +9,13 @@
 }
 
 .cabeçalho{
+    width: 1vw;
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
-    width: 100vw;
+ 
 }
 .cabecalho__imagem{
     width: 6rem;
