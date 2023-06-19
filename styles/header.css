@@ -9,7 +9,7 @@
 }
 
 .cabeçalho{
-    width: 100%;
+
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
@@ -39,6 +39,7 @@
 
 .container__botao:checked~.lista-menu{
     display: block;
+    background-color: var(--roxo-gradiente);
 }
 
 .lista-menu__titulo, .lista-menu__item{
