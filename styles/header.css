@@ -107,7 +107,7 @@
         top: 100%;
     
     }
-    #opções-menu:checked~.lista-menu{
+    #opções-menu:hover~.lista-menu{
         display: block;
       
     }
