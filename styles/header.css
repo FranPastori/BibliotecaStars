@@ -107,7 +107,7 @@
         top: 100%;
     
     }
-    .opções__botão:checked~.lista-menu{
+    #opções-menu:checked~.lista-menu{
         display: block;
       
     }
