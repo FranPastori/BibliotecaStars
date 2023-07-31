@@ -93,7 +93,7 @@
     }
     .opções__link{
         text-decoration: none;
-        color: var(--preto);
+        color: var(--rosa);
     }
     .container__imagem-transparente{
         display: none;
@@ -102,9 +102,5 @@
         display: none;
     }
   
-    .opções__botão:checked~.lista-menu{
-        display: block;
-      
-    }
     
 }
