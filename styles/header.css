@@ -102,6 +102,12 @@
     .cabeçalho__menu-hamburguer{
         display: none;
     }
+    .lista-menu{
+        display: none;
+        position: absolute;
+        top: 100%;
+    
+    }
     .opções__botão:checked~.lista-menu{
         display: block;
         width: auto;
