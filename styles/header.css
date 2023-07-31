@@ -111,12 +111,6 @@
         display: block;
         width: auto;
     }
-    .lista-menu{
-        display: none;
-        position: absolute;
-        top: 100%;
-        width: 60vw;
-    }
     .opções__botão{
         display: none;
     }
