@@ -99,11 +99,11 @@
     .container__imagem-transparente{
         display: none;
     }
-    .cabeçalho__menu-hamburguer{
+    .container__imagem{
         display: none;
     }
     .lista-menu{
-        display: block;
+        display: none;
         position: absolute;
         top: 100%;
     
