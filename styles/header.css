@@ -41,9 +41,7 @@
     display: block;
   
 }
-.container__botao:active{
-    background-color: var(--roxo-gradiente);
-}
+
 .lista-menu__titulo, .lista-menu__item{
     padding: 1em;
     background-color: var(--branco);
@@ -107,6 +105,12 @@
     .opções__botão:checked~.lista-menu{
         display: block;
         width: auto;
+    }
+    .lista-menu{
+        display: none;
+        position: absolute;
+        top: 100%;
+        width: 60vw;
     }
     .opções__botão{
         display: none;
