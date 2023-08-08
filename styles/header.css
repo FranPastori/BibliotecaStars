@@ -101,5 +101,8 @@
     .container__imagem{
         display: none;
     }
-    
+    .container__opcao:checked~.lista-menu{
+        display: block;
+      
+    }
 }
