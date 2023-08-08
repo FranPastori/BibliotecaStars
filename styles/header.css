@@ -101,12 +101,5 @@
     .container__imagem{
         display: none;
     }
-    .lista-menu{
-        display: none;}
-
-    .opções__botão:checked~.lista-menu{
-            display: block;
-          
-    }
     
 }
