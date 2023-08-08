@@ -101,6 +101,7 @@
     .container__imagem{
         display: none;
     }
-  
+    .lista-menu{
+        display: block;}
     
 }
