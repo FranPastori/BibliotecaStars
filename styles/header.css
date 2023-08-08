@@ -103,6 +103,6 @@
     }
     .container__opcao:checked~.lista-menu{
         display: block;
-      
+        width: auto;
     }
 }
