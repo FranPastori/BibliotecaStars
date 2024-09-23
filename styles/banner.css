@@ -16,7 +16,7 @@
 }
 
 
-.banner__pesquisa {
+.banner_pesquisa {
     background-color: transparent;
     border: 1px solid var(--branco);
     color: var(--branco);
@@ -27,7 +27,7 @@
 
 
 
-.banner__pesquisa::placeholder {
+.banner_pesquisa::placeholder {
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
